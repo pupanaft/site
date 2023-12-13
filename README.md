@@ -1,1 +1,1 @@
-https://pupanaft.github.io/block1.3/
+https://pupanaft.github.io/site/
